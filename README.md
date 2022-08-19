@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from Ghana</h3>
 
 - 🌱 I’m currently learning **Vue and AWS**
 
