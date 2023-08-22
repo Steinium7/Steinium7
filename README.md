@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects in Node.js**
 
-- 🌱 I’m currently learning **AWS Cloud, Nest.js, Electronics**
+- 🌱 I’m currently learning **AWS Cloud, Electronics**
 
 - 👯 I’m looking to collaborate on **any Backend projects**
 
