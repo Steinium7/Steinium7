@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **michaelakwobeng@gmail.com**
 
-- ⚡ Fun fact **I am Effective at being lazy**
+- ⚡ Fun fact **😆 What did you want to hear? Just contact me 👇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
