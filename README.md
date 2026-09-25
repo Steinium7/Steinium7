@@ -4,7 +4,7 @@ Software engineer from Ghana building production web apps with **Angular / TypeS
 
 **What I work on**
 
-- Frontend at [Nailted](https://nailted.com) — incremental upgrades of a large Angular SaaS app from v15 to v22, webpack → esbuild, standalone components & new control flow
+- Frontend at [Nailted](https://nailted.com) — day-to-day bug fixes and feature work on a large Angular SaaS app, plus leading its upgrade across seven major Angular versions (webpack → esbuild, standalone components, new control flow)
 - Replacing a legacy UI framework (Clarity) with an in-house component library and Tailwind design system, one component at a time without breaking production
 - APIs and backends for client apps (Node.js / NestJS / Express, MongoDB, PostgreSQL)
 
