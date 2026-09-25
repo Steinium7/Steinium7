@@ -12,4 +12,4 @@ Software engineer from Ghana building production web apps with **Angular / TypeS
 
 `Angular` `TypeScript` `RxJS` `Tailwind` · `Node.js` `NestJS` · `Python` · `PostgreSQL` `MongoDB` · `Docker` `GitHub Actions`
 
-**Reach me** · michaelakwobeng@gmail.com
+**Reach me** · [LinkedIn](https://www.linkedin.com/in/michaelasareobeng/) · michaelakwobeng@gmail.com
