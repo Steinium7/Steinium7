@@ -1,25 +1,15 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate backend developer from Ghana, Interested in Digital VSLI, Embedded Systems and IOT</h3>
+### Hi, I'm Michael 👋
 
-- 🔭 I’m currently working on **projects in Node.js**
+Software engineer from Ghana building production web apps with **Angular / TypeScript**, plus **Node.js** and **Python** on the backend.
 
-- 🌱 I’m currently learning **AWS Cloud, Electronics**
+**What I work on**
 
-- 👯 I’m looking to collaborate on **any Backend projects**
+- Frontend at [Nailted](https://nailted.com) — incremental upgrades of a large Angular SaaS app from v15 to v22, webpack → esbuild, standalone components & new control flow
+- Replacing a legacy UI framework (Clarity) with an in-house component library and Tailwind design system, one component at a time without breaking production
+- APIs and backends for client apps (Node.js / NestJS / Express, MongoDB, PostgreSQL)
 
-- 🤝 I’m looking for help with **Digital Vlsi**
+**Stack**
 
-- 💬 Ask me about **Node.js, Backend Development**
+`Angular` `TypeScript` `RxJS` `Tailwind` · `Node.js` `NestJS` · `Python` · `PostgreSQL` `MongoDB` · `Docker` `GitHub Actions`
 
-- 📫 How to reach me **michaelakwobeng@gmail.com**
-
-- ⚡ Fun fact **😆 What did you want to hear? Just contact me 👇**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steinium7&show_icons=true&locale=en&layout=compact" alt="steinium7" /></p>
+**Reach me** · michaelakwobeng@gmail.com
